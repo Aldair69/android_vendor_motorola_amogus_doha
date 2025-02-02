@@ -108,7 +108,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/amogus_doha/proprietary/vendor/firmware/focaltech-ft8719-a0-0000-doha.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/focaltech-ft8719-a0-0000-doha.bin \
     vendor/motorola/amogus_doha/proprietary/vendor/firmware/himax-HX83112A-doha.csv:$(TARGET_COPY_OUT_VENDOR)/firmware/himax-HX83112A-doha.csv \
     vendor/motorola/amogus_doha/proprietary/vendor/firmware/hx_criteria.csv:$(TARGET_COPY_OUT_VENDOR)/firmware/hx_criteria.csv \
-    vendor/motorola/amogus_doha/proprietary/vendor/lib/libmmcamera_mot_s5kgm1sp_doha.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_mot_s5kgm1sp_doha.so
+    vendor/motorola/amogus_doha/proprietary/vendor/lib/libmmcamera_mot_s5kgm1sp_doha.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_mot_s5kgm1sp_doha.so \
     vendor/motorola/amogus_doha/proprietary/vendor/etc/libnfc-mtp_default.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-mtp_default.conf \
     vendor/motorola/amogus_doha/proprietary/vendor/etc/libnfc-mtp-NQ3XX.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-mtp-NQ3XX.conf \
     vendor/motorola/amogus_doha/proprietary/vendor/etc/libnfc-mtp-NQ4XX.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-mtp-NQ4XX.conf \
@@ -126,4 +126,4 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/amogus_doha/proprietary/vendor/lib/libpn551_fw.so:$(TARGET_COPY_OUT_VENDOR)/lib/libpn551_fw.so \
     vendor/motorola/amogus_doha/proprietary/vendor/lib/libpn553_fw.so:$(TARGET_COPY_OUT_VENDOR)/lib/libpn553_fw.so \
     vendor/motorola/amogus_doha/proprietary/vendor/lib64/libpn553_fw.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libpn553_fw.so \
-    vendor/motorola/amogus_doha/proprietary/vendor/lib/libpn557_fw.so:$(TARGET_COPY_OUT_VENDOR)/lib/libpn557_fw.so \
+    vendor/motorola/amogus_doha/proprietary/vendor/lib/libpn557_fw.so:$(TARGET_COPY_OUT_VENDOR)/lib/libpn557_fw.so
